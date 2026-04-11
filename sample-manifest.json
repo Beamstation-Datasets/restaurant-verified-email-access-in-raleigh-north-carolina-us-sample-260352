@@ -1,0 +1,12 @@
+{
+  "export_job_id": "dbfdfc89-921d-4576-903a-0ffc4d3a1a1b",
+  "id_short": 260352,
+  "published_at": "2026-04-11T07:16:10Z",
+  "repo_name": "restaurant-verified-email-access-in-raleigh-north-carolina-us-sample-260352",
+  "sample_asset_name": "beamstation_260352_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/260352/beamstation_260352_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 61,
+  "sample_sha256": "691ba9f895b9d6e7e7229f808ebf98b69b0ea43273559623c17ef06679912100",
+  "sample_size_bytes": 256265,
+  "total_records": 616
+}
