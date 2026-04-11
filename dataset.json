@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Raleigh, North Carolina, US",
+  "export_job_id": "dbfdfc89-921d-4576-903a-0ffc4d3a1a1b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 260352,
+  "location_name": "Raleigh",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-raleigh-north-carolina-us-sample-260352",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/260352/beamstation_260352_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 61,
+  "sample_sha256": "691ba9f895b9d6e7e7229f808ebf98b69b0ea43273559623c17ef06679912100",
+  "sample_size_bytes": 256265,
+  "total_records": 616,
+  "updated_at": "2026-04-07T23:27:03.017101+00:00"
+}
