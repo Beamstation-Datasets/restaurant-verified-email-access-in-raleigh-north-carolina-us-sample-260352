@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Raleigh, North Carolina, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `260352` |
 | Location | Raleigh |
 | Category | Restaurants |
-| Full dataset size | 616 records |
-| Free sample size | 61 records (9.9%) |
-| Last export | 2026-04-07T23:27:03.017101+00:00 |
+| Full dataset size | 593 records |
+| Free sample size | 59 records (9.95%) |
+| Last export | 2026-04-15T05:12:28.099013+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-raleigh-north-carolina-us-sample-260352/releases/download/sample-latest/beamstation_260352_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
